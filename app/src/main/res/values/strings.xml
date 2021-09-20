@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Simulated Annealing</string>
+    <string name="russian_app_name">Алгоритм отжига</string>
+
+    <!-- Fragments name -->
+    <string name="main_window">MainWindowFragment</string>
+    <string name="annealing_window">AnnealingFragment</string>
+
+    <!-- Annealing algorithm -->
+    <string name="min_temp">Минимальная температура</string>
+    <string name="max_temp">Максимальная температура</string>
+    <string name="coefficient_dec_temp">Коэффициент понижения температуры</string>
+    <string name="queen_count">Количество ферзей</string>
+    <string name="iteration_count">Количество шагов при \nпостоянном значении температуры</string>
+    <string name="line_title_temp">Температура</string>
+    <string name="line_title_energy">Энергия лучшего решения</string>
+    <string name="line_title_bad_solution">Изменения принятых плохих решений</string>
+
+    <!-- View elements -->
+    <string name="button_text">Рассчитать</string>
+    <string name="input_line_text_tools">Указать текст</string>
+    <string name="title_result">Результаты</string>
+    <string name="title_chart">Графики</string>
+
+    <!-- Control message -->
+    <string name="error">Ошибка</string>
+    <string name="fill_all_fields">Необходимо заполнить все поля</string>
+    <string name="preloader">Подождите</string>
+</resources>
